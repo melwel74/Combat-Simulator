@@ -2,8 +2,6 @@
 
 # Robot Gladiators: 
 
-In this first lesson, we'll use JavaScript to code a single round of Robot Gladiators. When we're done, the game will follow this sequence:
-
 ## Game Sequence
 
 1. **Prompt for Robot Name**: The game will prompt the player to name their robot.
