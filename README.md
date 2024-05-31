@@ -1,6 +1,6 @@
 # Combat-Simulator
 
-# Robot Gladiators: Lesson 1
+# Robot Gladiators: 
 
 In this first lesson, we'll use JavaScript to code a single round of Robot Gladiators. When we're done, the game will follow this sequence:
 
